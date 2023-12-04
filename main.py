@@ -1,6 +1,6 @@
 '''
 LICENCE belongs to:
-GOLDEN NERDS :)
+GOLDEN NERDS 
 
 Created by:
 Heydarova Nargiz
