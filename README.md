@@ -30,7 +30,7 @@ This is a Python implementation of the classic Connect Four game created by Heyd
 
 1. Clone the repository.
 2. Open a terminal and navigate to the project directory.
-3. Run the game using the command `python connect_four.py`.
+3. Run the game using the command `python main.py`.
 
 ## Usage
 
@@ -39,7 +39,7 @@ This is a Python implementation of the classic Connect Four game created by Heyd
 
 ## License
 
-This project is licensed under the [LICENSE_NAME] - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [LICENSE_NAME] - see the [LICENSE](LICENSE) file for details.
 
 ---
 
