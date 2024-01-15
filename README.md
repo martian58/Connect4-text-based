@@ -1,2 +1,52 @@
 # Connect4-text-based
-This is a text based Connect Four game that i created for my university project.
+This is a text based Connect Four game that we created for our university project.
+
+## Table of Contents
+
+- [Introduction](#connect-four-game)
+- [How to Play](#how-to-play)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+
+## Introduction
+
+This is a Python implementation of the classic Connect Four game created by Heydarova Nargiz, Guliyev Magsud, Mirzaguliyeva Farah, and Alizade Fuad.
+
+## How to Play
+
+- Run the program.
+- Follow the on-screen instructions to make moves.
+- Enjoy the game!
+
+## Features
+
+- Two-player mode.
+- Intelligent opponent detection.
+- Play again option.
+
+## Installation
+
+1. Clone the repository.
+2. Open a terminal and navigate to the project directory.
+3. Run the game using the command `python connect_four.py`.
+
+## Usage
+
+- Modify the code to add new features.
+- Share your improvements with the community.
+
+## License
+
+This project is licensed under the [LICENSE_NAME] - see the [LICENSE.md](LICENSE.md) file for details.
+
+---
+
+LICENCE belongs to: GOLDEN NERDS
+
+Created by:
+- Heydarova Nargiz
+- Guliyev Magsud
+- Mirzaguliyeva Farah
+- Alizade Fuad
