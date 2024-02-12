@@ -45,8 +45,3 @@ This project is licensed under the [GNU GENERAL PUBLIC LICENSE] - see the [LICEN
 
 LICENCE belongs to: GOLDEN NERDS
 
-Created by:
-- Heydarova Nargiz
-- Guliyev Magsud
-- Mirzaguliyeva Farah
-- Alizade Fuad
